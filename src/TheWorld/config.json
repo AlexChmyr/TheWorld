@@ -1,0 +1,9 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": "alex@text.ua",
+    "BingKey": "Some Bing key"
+  },
+  "Data": {
+    "WorldContextConnection": "Connection string"
+  }
+}

@@ -1,0 +1,8 @@
+build/
+[Dd]ebug/
+[Rr]elease/
+packages/
+.vs/
+src/TheWorld/config.json.dist
+src/TheWorld/bin/
+src/TheWorld/obj/
